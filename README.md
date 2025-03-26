@@ -4,6 +4,15 @@ This is just a simple Binary Classification XGBoost model.
 
 I was looking to familiarise myself with systems programming. Most of my experience prior to this was with regard to algorithms and ML. XGBoost implements quite a bit of these, so I thought coding it out myself would be a nice way to learn.
 
+### Resources
+
+CSV parser: 
+https://github.com/ben-strasser/fast-cpp-csv-parser/blob/master/README.md
+
+Datasets:
+https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
+https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
+
 
 ### SIMD & CUDA
 
